@@ -23,7 +23,6 @@ I'm a junior Web Developer, and one day I'll be a great devops engineer
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-blue?style=flat-square&logo=TailwindCSS)
-![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=Vuetify)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
 ![SQLite](https://img.shields.io/badge/-SQLite-blue?style=flat-square&logo=SQLite)
 ![Firebase](https://img.shields.io/badge/-Firebase-red?style=flat-square&logo=Firebase)
@@ -34,8 +33,6 @@ I'm a junior Web Developer, and one day I'll be a great devops engineer
 ![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=NGINX)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-181717?style=flat-square&logo=GitHubActions)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 
 [!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=hrypasato&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
