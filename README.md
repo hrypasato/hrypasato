@@ -17,14 +17,9 @@ I'm a junior Web Developer, and one day I'll be a great devops engineer
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=Vue.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=Nuxt.js)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=Next.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express)
-![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=Django)
-![Vite](https://img.shields.io/badge/-Vite-563D7C?style=flat-square&logo=Vite)
-![Webpack](https://img.shields.io/badge/-Webpack-blue?style=flat-square&logo=Webpack)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-blue?style=flat-square&logo=TailwindCSS)
@@ -36,7 +31,6 @@ I'm a junior Web Developer, and one day I'll be a great devops engineer
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Prisma](https://img.shields.io/badge/-Prisma-blue?style=flat-square&logo=Prisma)
 ![JWT](https://img.shields.io/badge/-JWT-E10098?style=flat-square&logo=JSONWebTokens)
-![Jest](https://img.shields.io/badge/-Jest-orange?style=flat-square&logo=Jest)
 ![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=NGINX)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -53,8 +47,5 @@ I'm a junior Web Developer, and one day I'll be a great devops engineer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/MichaelCade1" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" alt="" height="40" width="40" /></a>
-<a href="http://linkedin.com/in/michaelcade1" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="" height="40" width="40" /></a>
-<a href="https://vzilla.co.uk/" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678060-rss-512.png" alt="" height="40" width="40" /></a>
-<a href="https://m.youtube.com/c/MichaelCade1" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-512.png" alt="" height="40" width="40" /></a>
-</p>
+<a href="https://twitter.com/hrypasato" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" alt="" height="40" width="40" /></a>
+<a href="http://linkedin.com/in/henry-quinde" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="" height="40" width="40" /></a>
