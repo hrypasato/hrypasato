@@ -9,7 +9,6 @@ I'm a junior Web Developer, and one day I'll be a great DevOps engineer
 - 🌱  I’m currently learning Typescript, ReactJS, TDD.
 - 🏄‍♂️ I’m looking to collaborate on open source projects
 - 💬  Love to meet new developers, join tech communities, collaborate and seek insights.
-- 📫  Send me an Email: hrypasato@gmail.com
 - ⚡  Fun fact: Love to share energy.
 
 ### Technologies
