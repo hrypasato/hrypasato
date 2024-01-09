@@ -1,6 +1,8 @@
 ### Hi there, I'm Henry 👋
 
-I'm a junior Web Developer, and one day I'll be a great DevOps engineer
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail&logoColor=red)  hrypasato@gmail.com
+
+I'm a Web Developer, and one day I'll be a great DevOps engineer
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhrypasato&count_bg=%2300C7FF&title_bg=%237E7E7E&icon=&icon_color=%2300C7FF&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -39,3 +41,4 @@ I'm a junior Web Developer, and one day I'll be a great DevOps engineer
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hrypasato&theme=dark)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=hrypasato&color=lightgrey)
+
