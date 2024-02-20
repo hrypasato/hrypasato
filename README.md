@@ -1,40 +1,17 @@
 ### Hi there, I'm Henry 👋
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail&logoColor=red)  hrypasato@gmail.com
-
-I'm a Web Developer, and one day I'll be a great DevOps engineer
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhrypasato&count_bg=%2300C7FF&title_bg=%237E7E7E&icon=&icon_color=%2300C7FF&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
+- I'm Software Engineering in The University of Cuenca.
 - 🌱  I’m currently learning Typescript, ReactJS, TDD.
 - 🏄‍♂️ I’m looking to collaborate on open source projects
 - 💬  Love to meet new developers, join tech communities, collaborate and seek insights.
 - ⚡  Fun fact: Love to share energy.
+  
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail&logoColor=red)  hrypasato@gmail.com
 
-### Technologies
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=Next.js)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-blue?style=flat-square&logo=TailwindCSS)
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
-![SQLite](https://img.shields.io/badge/-SQLite-blue?style=flat-square&logo=SQLite)
-![Firebase](https://img.shields.io/badge/-Firebase-red?style=flat-square&logo=Firebase)
-![Swagger](https://img.shields.io/badge/-Swagger-black?style=flat-square&logo=Swagger)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Prisma](https://img.shields.io/badge/-Prisma-blue?style=flat-square&logo=Prisma)
-![JWT](https://img.shields.io/badge/-JWT-E10098?style=flat-square&logo=JSONWebTokens)
-![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=NGINX)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+---
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhrypasato&count_bg=%2300C7FF&title_bg=%237E7E7E&icon=&icon_color=%2300C7FF&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 [!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=hrypasato&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
